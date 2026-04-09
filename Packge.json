@@ -1,8 +1,6 @@
 {
   "name": "video-downloader-bot",
   "version": "1.0.0",
-  "description": "Universal Video Downloader Bot for Telegram",
-  "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
   },
